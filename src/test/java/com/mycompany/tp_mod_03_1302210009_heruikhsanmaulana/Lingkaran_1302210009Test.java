@@ -20,7 +20,7 @@ public class Lingkaran_1302210009Test {
     public void testSetWarna() {
         Lingkaran_1302210009 L = new Lingkaran_1302210009();
         L.setWarna_1302210009("merah");
-        assertEquals("merah", L.warna);
+        assertEquals("merah", L.warna); //warna tetap merah
     }
 
     @Test
