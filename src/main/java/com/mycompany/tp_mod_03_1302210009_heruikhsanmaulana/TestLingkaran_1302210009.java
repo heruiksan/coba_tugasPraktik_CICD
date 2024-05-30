@@ -19,7 +19,7 @@ public class TestLingkaran_1302210009 {
         L.setWarna_1302210009("merah");
         
         // Test the color
-        assert L.warna.equals("merah") : "Test case 1 failed: Warna should be merah";
+        assert L.warna.equals("biru") : "Test case 1 failed: Warna should be merah";
         
         // Print and test keliling
         double expectedKeliling = (22.0 / 7.0) * 2.0 * L.jari;
