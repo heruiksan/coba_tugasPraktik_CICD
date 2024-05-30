@@ -6,8 +6,8 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.mycompany</groupId>
-    <artifactId>TP_MOD_03_1302210009_HeruIkhsanMaulana</artifactId>
-    <version>1.0.1</version>
+    <artifactId>TP_MOD_03_1302210009_HeruIkhsanMaulana</artifactId> 
+    <version>3.0.1</version>
     
     <dependencies>
         <!-- Ensure all dependencies are inside this section -->
