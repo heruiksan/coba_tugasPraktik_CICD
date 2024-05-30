@@ -1,0 +1,24 @@
+#surefire
+#Fri May 31 01:39:39 WIB 2024
+childDelegation=false
+classPathUrl.0=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\target\\test-classes
+classPathUrl.1=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\target\\classes
+classPathUrl.2=C\:\\Users\\herui\\.m2\\repository\\junit\\junit\\4.13.2\\junit-4.13.2.jar
+classPathUrl.3=C\:\\Users\\herui\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+enableAssertions=true
+failIfNoTests=true
+includes0=**/com/mycompany/tp_mod_03_1302210009_heruikhsanmaulana/Lingkaran_1302210009Test.java
+isTrimStackTrace=true
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+reportsDirectory=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\target\\surefire-reports
+requestedTest=com.mycompany.tp_mod_03_1302210009_heruikhsanmaulana.Lingkaran_1302210009Test,
+runOrder=filesystem
+runStatisticsFile=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\.surefire-2A122BD7A769BC7E85E54F9BA5AAC86C7CC0D299
+specificTest0=**/com/mycompany/tp_mod_03_1302210009_heruikhsanmaulana/Lingkaran_1302210009Test.java
+surefireClassPathUrl.0=C\:\\Users\\herui\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+surefireClassPathUrl.1=C\:\\Users\\herui\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+tc.0=com.mycompany.tp_mod_03_1302210009_heruikhsanmaulana.Lingkaran_1302210009Test
+testClassesDirectory=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\target\\test-classes
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\herui\\OneDrive\\Documents\\1KULIAH\\Semester 4\\Pemrograman Berbasis Objek (PBO OOP)\\Praktikum\\TP_MOD_03_1302210009_HeruIkhsanMaulana\\src\\test\\java
+useManifestOnlyJar=true
+useSystemClassLoader=true
